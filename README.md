@@ -22,7 +22,7 @@ Materials on Python, Data Science, and Artificial Intelligence that I have found
 
 ## Data Science
 ### Courses
-- [Dataquest Data Scientist in Python](https://app.dataquest.io/path/data-scientist)
+- [Dataquest Data Scientist in Python](https://app.dataquest.io/path/data-scientist) - Paid 
 ### Lectures
 
 ### Documentaries
@@ -33,7 +33,7 @@ Materials on Python, Data Science, and Artificial Intelligence that I have found
 
 ## Machine Learning
 ### Courses
-- [AlgoExpert Machine Learning Crash Course](https://www.algoexpert.io/machine-learning/crash-course)
+- [AlgoExpert Machine Learning Crash Course](https://www.algoexpert.io/machine-learning/crash-course) - Paid
 ### Lectures
 
 ### Documentaries
@@ -44,7 +44,8 @@ Materials on Python, Data Science, and Artificial Intelligence that I have found
 
 ## Deep Learning
 ### Courses
-- [Udacity Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
+- [Udacity Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101) - Paid 
+    > Scholarships available
 ### Lectures
 
 ### Documentaries
