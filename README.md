@@ -56,3 +56,6 @@ Materials on Python, Data Science, and Artificial Intelligence that I have found
 
 ## Interview Preparations
 - [Pramp](https://www.pramp.com/)
+
+## Others
+[A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts] (https://arxiv.org/pdf/2203.16718.pdf)
