@@ -58,5 +58,5 @@
 - [Pramp](https://www.pramp.com/)
 
 ## Others
-[A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts](https://arxiv.org/pdf/2203.16718.pdf)
-[Monzo's Machine Learning Stack](https://monzo.com/blog/2022/04/26/monzos-machine-learning-stack?utm_source=ActiveCampaign&utm_medium=email&utm_content=Mega-Ops+%231+6&utm_campaign=Mega-Ops+%231+6#article)
+- [A Large-Scale Comparison of Python Code in Jupyter Notebooks and Scripts](https://arxiv.org/pdf/2203.16718.pdf)
+- [Monzo's Machine Learning Stack](https://monzo.com/blog/2022/04/26/monzos-machine-learning-stack?utm_source=ActiveCampaign&utm_medium=email&utm_content=Mega-Ops+%231+6&utm_campaign=Mega-Ops+%231+6#article)
