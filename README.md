@@ -13,6 +13,7 @@
 ## Artificial Intelligence 🤖
 
 ### Courses 📑
+- [Elements of AI](https://elementsofai.com/)
 
 ### Books 📖
 
