@@ -36,3 +36,7 @@ Hi! I am just reflecting on and compiling resources that helped me get started i
 - [How to self study technical things](https://www.youtube.com/watch?v=_EzmbCuoFcU)
 - [3Blue1Brown - math stuff](https://www.youtube.com/c/3blue1brown)
 - [Khan Academy - math stuff](https://www.khanacademy.org/)
+
+## Resume / ATS
+
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anonymous, 10/day free account) + open State of ATS 2026 (738 employers, 704 portal-verified; Workday 37.9%). Live candidate leaderboard is paid placement for visibility only — not pay-for-score / not pay-to-get-hired.
